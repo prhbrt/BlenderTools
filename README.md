@@ -12,7 +12,7 @@ A repository of blender addons that improve the game development workflow betwee
 
 A one-click solution for sending assets from Blender to Unreal Engine.
 
-* [Read Docs](https://epicgamesext.github.io/BlenderTools/send2ue/)
+* [Read Docs](https://epicgames.github.io/BlenderTools/send2ue/)
 * [Download Addon](https://github.com/EpicGamesExt/BlenderTools/releases?q=Send+to+Unreal&expanded=true)
 
 
